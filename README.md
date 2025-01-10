@@ -1,4 +1,4 @@
-# Duna AI v1.7.1
+# Duna AI v1.0.0
 Privacy-centric, free, robust cryptocurrency tax computation and reporting framework
 
 ## Table of Contents
