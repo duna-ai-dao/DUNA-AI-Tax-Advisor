@@ -1,14 +1,6 @@
 # DUNA AI Tax Advisor v1.0
 A comprehensive, privacy-focused, AI-driven crypto tax advisory tool
 
-![DUNA AI Logo](https://path-to-duna-ai-logo)
-
-[![Static Analysis](https://github.com/your-repo/duna-ai/actions/workflows/static_analysis.yml/badge.svg)](https://github.com/your-repo/duna-ai/actions/workflows/static_analysis.yml)
-[![Documentation Check](https://github.com/your-repo/duna-ai/actions/workflows/documentation_check.yml/badge.svg)](https://github.com/your-repo/duna-ai/actions/workflows/documentation_check.yml)
-[![Unit Tests](https://github.com/your-repo/duna-ai/actions/workflows/unit_tests.yml/badge.svg)](https://github.com/your-repo/duna-ai/actions/workflows/unit_tests.yml)
-[![Code Quality](https://github.com/your-repo/duna-ai/actions/workflows/code_quality.yml/badge.svg)](https://github.com/your-repo/duna-ai/actions/workflows/code_quality.yml)
-[![Social Media Share](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Discover%20DUNA%20AI,%20the%20innovative%20crypto%20tax%20advisor%20&url=https://github.com/your-repo/duna-ai)
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [License](#license)
